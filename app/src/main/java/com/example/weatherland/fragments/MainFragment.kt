@@ -37,7 +37,7 @@ import com.google.android.material.tabs.TabLayoutMediator
 import com.squareup.picasso.Picasso
 import org.json.JSONObject
 
-const val API = "fd3e3eb981bd49a580274803231903"
+const val API = "Ваш API-ключ"
 
 class MainFragment : Fragment() {
     private lateinit var fLocationClient : FusedLocationProviderClient
